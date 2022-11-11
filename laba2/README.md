@@ -6,7 +6,7 @@
 - Результати виконання завдання № 1:
     1. Створив папку та файли
     2. Почав виконувати завдання по базовим типам даних Python і комплесними даними 
-    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_2/img/Screenshot_1.png "Результат № 1")
+    ![alt text](https://github.com/stasik1435/laba/raw/main/laba2/img/Screenshot_5.png "Результат № 1")
     3. Почав працювати з констанами
     4. Почав практикувати роботу з вбудованими функціями
     5. Робота з циклами while & for
