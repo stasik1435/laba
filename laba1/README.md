@@ -6,13 +6,13 @@
 - Результати виконання завдання № 1:
     1. Створив папку і в папці файл .py
     2. Програма вивела: 
-    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/scr_1.png "Результат № 1")
-    ![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_1/img/src_2.png "Результат № 2")
+    ![alt text](https://github.com/stasik1435/laba/raw/main/laba1/image/Screenshot_4.png "Результат № 1")
+    ![alt text](https://github.com/stasik1435/laba/raw/main/laba1/image/Screenshot_3.png "Результат № 2")
 
 - Код:
 ```python
     from datetime import datetime
-    name = "Yura"
+    name = "Stasik"
 
     print(f"{name} start programming at {datetime.now()}")
 ```
